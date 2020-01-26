@@ -1,2 +1,2 @@
 # Scan-App
-Scanner Configuration Application
+Scanner Configuration Application built in Android Studio
